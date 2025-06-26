@@ -2,7 +2,7 @@
 
 The objective of this task is to demonstrate proficiency in basic SQL data retrieval operations. This includes extracting data using SELECT queries, applying filters with WHERE, sorting results with ORDER BY, limiting output with LIMIT, and using conditional operators like LIKE, AND, OR, and BETWEEN.
 
-📁 File Included Task 3.sql Contains SQL statements to:
+📁 File Included sqlday3.sql Contains SQL statements to:
 
 Create necessary tables (Students and Courses)
 
